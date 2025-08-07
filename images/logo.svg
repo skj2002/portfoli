@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 38">
+  <defs>
+    <style>
+      .cls-circle { fill: #0b36a8; }  /* Blue circle */
+      .cls-text { fill: #fff; font-family: Arial, sans-serif; font-weight: bold; font-size: 24px; }
+    </style>
+  </defs>
+
+  <!-- Blue circle with 'S' inside -->
+  <ellipse class="cls-circle" cx="19" cy="19" rx="19" ry="19" />
+  <text class="cls-text" x="12" y="27">S</text>
+
+  <!-- Rest of the text "hashi kumar" -->
+  <text class="cls-text" x="38" y="27">hashi kumar</text>
+</svg>
